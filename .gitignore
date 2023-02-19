@@ -40,3 +40,5 @@ vignettes/*.pdf
 
 github.R
 *.Rproj
+
+data/wc2-5/*
